@@ -1,2 +1,1 @@
-# alx-low_level_programming
-alx low level programming tasks
+A README file for alx-low_level_programming repository task
