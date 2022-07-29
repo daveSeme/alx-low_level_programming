@@ -1,1 +1,1 @@
-A README file for alx-low_level_programming repository task
+A readme file for alx-low_level_programming
